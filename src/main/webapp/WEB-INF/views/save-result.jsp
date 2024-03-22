@@ -10,5 +10,6 @@
     <li>name = ${member.username}</li>
     <li>age = ${member.age}</li>
 </ul>
+<a href="/index.html">메인으로</a>
 </body>
 </html>
